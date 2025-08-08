@@ -3,6 +3,8 @@
 
 # Arabic Text Autocorrection with BERT and Jaccard Similarity
 
+link to notebook  https://colab.research.google.com/drive/1jkugwZGgIoq5LFahNs4OW3Af_iQ7NPcl?usp=sharing
+
 This project implements an Arabic text autocorrection system using fine-tuned BERT models enhanced with Jaccard similarity for improved word comparison and correction.
 
 ## Overview
